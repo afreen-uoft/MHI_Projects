@@ -21,7 +21,6 @@ Each project is grounded in real-world healthcare challenges, digital transforma
 - **Google Analytics Report**: Web analytics project analyzing user interaction trends.
 - **Anti-Vax Misinformation Essay**: Ethical debate on misinformation and free speech.
 - **Reflection Papers**: Personal development reflections across multiple MHI courses.
-- **CV**: Afreen Rehman's academic and professional curriculum vitae.
 
 ## How to Use
 Each folder contains a corresponding `.pdf`, `.docx`, or `.pptx` file representing the final submitted work for that topic. Most files include references and formatting according to University of Toronto guidelines.
